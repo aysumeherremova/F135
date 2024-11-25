@@ -1,0 +1,14 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.footer-container h2{
+    font: 600 18px arial;
+
+}
+.footer-container{
+    display: block;
+    font: 500 16px arial;
+    color: #7b838a;
+
+}
